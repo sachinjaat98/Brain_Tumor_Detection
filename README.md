@@ -1,5 +1,9 @@
 # Brain_Tumor_Detection
 ## Classifying Brain tumor types using EfficientNet and MobileNet Models
+
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-0099E5?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-76B900?style=for-the-badge&logo=pycharm&logoColor=white"/>
+
+
 ![tumor_pic](https://github.com/sachinjaat98/Brain_Tumor_Detection/assets/56782045/8d4515dc-135b-4bc8-8ace-5dd4ee8345b7)
 
 
